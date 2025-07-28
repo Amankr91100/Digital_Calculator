@@ -1,0 +1,16 @@
+.keys{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 2rem;
+    /* padding: 2rem; */
+    
+}
+.btn{
+    height: 50px;
+    width: 50px;
+    margin: 1rem;
+   text-align: center;
+   border: 2px solid aqua;
+   
+}
