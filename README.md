@@ -3,7 +3,7 @@
 This is a simple digital calculator built using **React JS**. It's a beginner-level project created to practice core React concepts like state management, event handling, and component communication.
 
 ## 🚀 Live Demo
-🔗 [Try the Calculator Here](https://your-live-link.vercel.app)
+🔗 [Try the Calculator Here](https://digital-calculator-d35e.vercel.app/)
 
 ## 🛠️ Features
 
