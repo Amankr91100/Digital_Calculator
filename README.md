@@ -20,6 +20,10 @@ This is a simple digital calculator built using **React JS**. It's a beginner-le
 - Passing props to components  
 - Handling children-to-parent communication  
 
+🖼️ Screenshots
+
+<img width="474" height="524" alt="Screenshot 2025-07-31 180906" src="https://github.com/user-attachments/assets/132e160d-c8e2-413f-bf24-9c56394395c4" />
+
 
 ## 📁 Folder Structure
 
